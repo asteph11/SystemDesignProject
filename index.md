@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<h1 style="color: ghostwhite">ABOUT THE PROJECT</h1>
+<p>We are instructed to develop a completely functional university website which allows both student registration and administrative maintenance.</p>
+<p>
+    <code>Content</code>&emsp;&ensp;Capstone Project<br/>
+    <code>Where</code>&emsp;&emsp;&ensp;SUNY College at Old Westbury<br/>
+    <code>Course</code>&emsp;&emsp;Systems Design and Engineering<br/>
+    <code>Professor</code>&ensp;Naresh Gupta<br/><br/>
+    <code>Goal</code><br/>&emsp;Our final deliverable will follow the assignment's directive which has been curated by the professor. It will also represent a culmination of abilities acquired over each contributors' time in university. We are instructed to develop a completely functional university website which allows both student registration and administrative maintenance.<br/>
+</p>
 
-You can use the [editor on GitHub](https://github.com/asteph11/SystemDesignProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 style="color: ghostwhite">CONTRIBUTORS</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Team Leader<br/>&ensp;`Andrew Stephens`
+#### Fullstack / Database<br/>&ensp;`Andrew Stephens`
+#### Back-end / Database <br/>&ensp;`Brian Mejia`, `Gwen Alessi`
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 style="color: ghostwhite">FRONT-END</h2>
 
-```markdown
-Syntax highlighted code block
+#### Framework&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;`React v18.1.0`
+#### Markdown / Style&emsp;&emsp;&emsp;&emsp;&emsp;`HTML5`, `CSS`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h2 style="color: ghostwhite">BACK-END</h2>
 
-1. Numbered
-2. List
+#### Scripting&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`Typescript`, `Javascript`, `PHP`
+#### RDBMS&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;`MySQL`
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h2 style="color: ghostwhite">DATABASE</h2>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### DBM Utility&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`MySQL Workbench`
 
-### Jekyll Themes
+<h2 style="color: ghostwhite">SERVER / HOSTING</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asteph11/SystemDesignProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Platform&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Amazon Web Services (AWS)`
+#### Service&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`EC2`
+#### Operating System&emsp;&emsp;&emsp;&emsp;&ensp;`Ubuntu`
+#### Web Server Software&emsp;&emsp;&emsp;`Apache`
+#### Elastic IP Support?&emsp;&emsp;&emsp;&emsp;`Yes - AWS Elastic IP`
+#### SSL Certified?&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;`No`
+#### Registered Domain Name?&ensp;<code>Yes - <a href = "www.owsysdb.com">www.owsysdb.com</a></code>
 
-### Support or Contact
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 style="color: ghostwhite">Usage and License Limitations</h2>
+
+<p style="color: indianred"><code>LICENSE WARNING:</code> Please read and understand the included <a href="https://github.com/asteph11/SoftwareEngineeringProject/blob/main/LICENSE.md">GPL License</a> before attempting to use this code.</p>
+<p>This strict copyleft license is in place due to the wholesale cheating that goes on at SUNY College at Old Westbury. Please understand the License before you get yourself into trouble.</p>
+<p><b>Do NOT</b> use any of this project's content <em>(structure /or source code /or libraries /or assets /or etc.)</em>, regardless of external modification, without citing Copyright where such content is used.</p>
+<p><b>DO</b> contact <a href="mailto:asteph11@oldwestbury.edu">Andrew Stephens</a> for inquiries.</p>
